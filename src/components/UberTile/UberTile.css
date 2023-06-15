@@ -11,12 +11,12 @@
   max-width: 100vw;
   min-width: 100vw;
   position: relative;
-  transition: transform 0.3s;
+  transition: transform .2s;
   z-index: 1;
 }
 
 .UberTile {
-  background-color: #282c34;
+  background-color: #282C34;
 }
 
 .UberTile.withLink:hover {
@@ -32,8 +32,8 @@
 
 .UberTile-description > span,
 .UberTile-title > span {
-  font-family: "Nova Square", Helvetica, sans-serif;
-  color: #4a86e8;
+  font-family: 'Nova Square', Helvetica, sans-serif;
+  color: #4A86E8;
   display: inline-block;
   vertical-align: middle;
   line-height: 1em;
@@ -54,8 +54,8 @@
 }
 
 .UberTile-link {
-  font-family: "Nova Square", Helvetica, sans-serif;
-  color: #4a86e8;
+  font-family: 'Nova Square', Helvetica, sans-serif;
+  color: #4A86E8;
   text-decoration: none;
   vertical-align: middle;
 }

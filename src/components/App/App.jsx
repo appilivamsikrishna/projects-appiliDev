@@ -5,14 +5,13 @@ import data from "../../data";
 
 function App() {
   const defaultItem = {
-    link: "https://sftp-status.appili.io/",
-    text_color: "#FFFFFF",
-    description: "status of SFTP pipeline",
-    background_logo: "sftp-status.png",
-    background_logo_size: "20%",
-    background_picture: "",
+    link: "https://apps.appili.dev",
+    description: "View my mobile Apps",
+    background_logo: "box6.png",
+    background_logo_size: "16%",
+    background_picture: "appleApp.jpg",
     background_picture_size: "cover",
-    background_color: "#74ee15",
+    background_color: "#FFFFFF",
   };
   if (data.settings.default_item === undefined || data.settings.default_item) {
     data.items.push(defaultItem);

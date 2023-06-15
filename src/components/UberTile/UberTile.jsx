@@ -47,7 +47,7 @@ class UberTile extends React.Component {
       ...gridStyle,
       lineHeight: `${itemHeight}vh`,
       marginTop: `-${itemHeight}vh`,
-      fontSize: `${itemHeight / 12}vh`,
+      fontSize: `${itemHeight / 15}vh`,
     };
 
     if (item.background_color) {
