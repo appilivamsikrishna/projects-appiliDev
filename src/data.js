@@ -13,7 +13,7 @@ export default {
     // },
     {
       link: "https://projects.appili.dev",
-      description: "View my Projects",
+      description: "Explore Personal Projects",
       background_picture: "projectsz.jpg",
       background_picture_size: "cover",
       background_logo: "bulb.png",
@@ -21,7 +21,7 @@ export default {
     },
     {
       link: "https://cv.appili.dev",
-      description: "View my Résumé",
+      description: "Dive into Résumé Portal",
       background_logo: "Angular_full_color_logo.svg",
       background_logo_size: "25%",
       background_picture: "angularArch.jpg",
@@ -31,7 +31,7 @@ export default {
     {
       link: "https://swagger.appili.dev",
       text_color: "#FFFFFF",
-      description: "Try my REST APIs",
+      description: "Try API's of Personal Projects",
       background_logo: "API.png",
       background_logo_size: "60%",
       background_picture: "aws.jpg",
