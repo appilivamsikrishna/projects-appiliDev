@@ -1,8 +1,8 @@
 {
-  "name": "uberpage",
+  "name": "appiliDev",
   "version": "0.1.0",
   "license": "AGPL-3.0-or-later",
-  "author": "Sebastian Schreck",
+  "author": "Appili Vamsi Krishna",
   "private": true,
   "homepage": "https://stegschreck.github.io",
   "dependencies": {
