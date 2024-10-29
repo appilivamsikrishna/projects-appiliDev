@@ -12,7 +12,7 @@ export default {
     //   background_color: "#000000", // defaults to '#282c34'
     // },
     {
-      link: "https://projects.appili.dev",
+      link: "https://projects-appili-dev-main.d3mni4u5xaebdn.amplifyapp.com/",
       description: "Explore Personal Projects",
       background_picture: "projectsz.jpg",
       background_picture_size: "cover",
@@ -20,7 +20,7 @@ export default {
       background_logo_size: "40%",
     },
     {
-      link: "https://cv.appili.dev",
+      link: "https://resume.appili.dev",
       description: "Dive into Résumé Portal",
       background_logo: "Angular_full_color_logo.svg",
       background_logo_size: "25%",
@@ -29,7 +29,7 @@ export default {
       background_color: "#FFFFFF",
     },
     {
-      link: "https://swagger.appili.dev",
+      link: "https://api-appili-dev-main.d3mni4u5xaebdn.amplifyapp.com/",
       text_color: "#FFFFFF",
       description: "Try API's of Personal Projects",
       background_logo: "API.png",
