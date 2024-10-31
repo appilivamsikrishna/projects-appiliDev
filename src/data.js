@@ -12,7 +12,7 @@ export default {
     //   background_color: "#000000", // defaults to '#282c34'
     // },
     {
-      link: "https://projects-appili-dev-main.d3mni4u5xaebdn.amplifyapp.com/",
+      link: "https://projects.appili.dev/",
       description: "Explore Personal Projects",
       background_picture: "projectsz.jpg",
       background_picture_size: "cover",
@@ -29,7 +29,7 @@ export default {
       background_color: "#FFFFFF",
     },
     {
-      link: "https://api-appili-dev-main.d3mni4u5xaebdn.amplifyapp.com/",
+      link: "https://api.appili.dev/",
       text_color: "#FFFFFF",
       description: "Try API's of Personal Projects",
       background_logo: "API.png",
