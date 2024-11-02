@@ -87,7 +87,7 @@ class UberTile extends React.Component {
         <a
           className="UberTile-link"
           {...(item.link ? { href: item.link } : {})}
-          target={settings.default_link_target}
+          // target={settings.default_link_target} open new tab _blank
         >
           <div
             className="UberTile-background-image"
