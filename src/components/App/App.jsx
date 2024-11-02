@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import UberPage from "../UberPage/UberPage";
 import data from "../../data";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const defaultItem = {
@@ -17,9 +18,12 @@ function App() {
     data.items.push(defaultItem);
   }
   return (
-    <div className="App">
-      <UberPage items={data.items} settings={data.settings} />
-    </div>
+    <>
+      <div className="App">
+        <UberPage items={data.items} settings={data.settings} />
+      </div>
+      <Analytics />
+    </>
   );
 }
 
