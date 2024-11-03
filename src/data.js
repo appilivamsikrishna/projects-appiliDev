@@ -29,7 +29,7 @@ export default {
       background_color: "#FFFFFF",
     },
     {
-      link: "https://api.appili.dev/",
+      link: "https://swagger.appili.dev/",
       text_color: "#FFFFFF",
       description: "Try API's of Personal Projects",
       background_logo: "API.png",
